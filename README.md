@@ -53,7 +53,7 @@ You might want to remove the older repository link from your system by running t
 
 For GUI Support in WSL - Windows 10, we need to use X-Server. In this case, I am using `GWSL`. The version in _Microsoft Store_ seem to become a paid app. 
 
-1. Download GWSL from [this link](https://github.com/Opticos/GWSL-Source/releases/tag/v1.4.0) from their official github repository.
+1. Download GWSL from [this link](https://github.com/MJKSabit/ns2-installation/releases/download/GWSL/GWSL.Traditional.140.release.x64.exe) from their official github repository.
 2. Install GWSL and Run
 3. On first run of GWSL, Windows will ask you to allow GWSL through the Windows Firewall. It is important to give it access to **public** and **private** networks. You might be asked to allow it through twice.
 4. Open GWSL window from notification panel. Go to `GWSL Distro Tools` > Enable ✅ `Display / Audio Auto Exporting`
